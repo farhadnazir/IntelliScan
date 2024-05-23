@@ -1,4 +1,4 @@
-# OCR Web Application Using Flask and Tesseract
+# IntelliScan OCR Web Application Using Flask and Tesseract
 
 
 Application:
@@ -7,6 +7,7 @@ A web application that lets you extract text from an input image.
 The image is extracted using the tesseract optical character recognition engine.
 We also provide the results after noise removal using median blur, 
 and after morphological operations like erosion followed by dilation, and the user can copy the best option.
+Also, you will be able to edit and download the text file.
 
 
 #### Tools used:
